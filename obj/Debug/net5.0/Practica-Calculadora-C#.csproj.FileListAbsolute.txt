@@ -1,0 +1,16 @@
+C:\Users\Alejandro\Desktop\workspace\Practica-Calculadora-C#\bin\Debug\net5.0\Practica-Calculadora-C#.exe
+C:\Users\Alejandro\Desktop\workspace\Practica-Calculadora-C#\bin\Debug\net5.0\Practica-Calculadora-C#.deps.json
+C:\Users\Alejandro\Desktop\workspace\Practica-Calculadora-C#\bin\Debug\net5.0\Practica-Calculadora-C#.runtimeconfig.json
+C:\Users\Alejandro\Desktop\workspace\Practica-Calculadora-C#\bin\Debug\net5.0\Practica-Calculadora-C#.runtimeconfig.dev.json
+C:\Users\Alejandro\Desktop\workspace\Practica-Calculadora-C#\bin\Debug\net5.0\Practica-Calculadora-C#.dll
+C:\Users\Alejandro\Desktop\workspace\Practica-Calculadora-C#\bin\Debug\net5.0\ref\Practica-Calculadora-C#.dll
+C:\Users\Alejandro\Desktop\workspace\Practica-Calculadora-C#\bin\Debug\net5.0\Practica-Calculadora-C#.pdb
+C:\Users\Alejandro\Desktop\workspace\Practica-Calculadora-C#\obj\Debug\net5.0\Practica-Calculadora-C#.csproj.AssemblyReference.cache
+C:\Users\Alejandro\Desktop\workspace\Practica-Calculadora-C#\obj\Debug\net5.0\Practica-Calculadora-C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\Desktop\workspace\Practica-Calculadora-C#\obj\Debug\net5.0\Practica-Calculadora-C#.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Desktop\workspace\Practica-Calculadora-C#\obj\Debug\net5.0\Practica-Calculadora-C#.AssemblyInfo.cs
+C:\Users\Alejandro\Desktop\workspace\Practica-Calculadora-C#\obj\Debug\net5.0\Practica-Calculadora-C#.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\workspace\Practica-Calculadora-C#\obj\Debug\net5.0\Practica-Calculadora-C#.dll
+C:\Users\Alejandro\Desktop\workspace\Practica-Calculadora-C#\obj\Debug\net5.0\ref\Practica-Calculadora-C#.dll
+C:\Users\Alejandro\Desktop\workspace\Practica-Calculadora-C#\obj\Debug\net5.0\Practica-Calculadora-C#.pdb
+C:\Users\Alejandro\Desktop\workspace\Practica-Calculadora-C#\obj\Debug\net5.0\Practica-Calculadora-C#.genruntimeconfig.cache
